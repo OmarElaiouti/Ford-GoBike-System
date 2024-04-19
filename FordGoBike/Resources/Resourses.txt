@@ -1,0 +1,7 @@
+1. I used the example of the included zip file, which was provided by Udacity, to help me making the required slides file.
+
+2. I used this page to help me write an introduction to the report in Read_Me file :   mahmoudsaziz.com/2021/02/21/ford-gobike-system-data/
+
+3. I used this work to help me making a good algorithm for my work and I used some code lines in it for the plots :   https://www.kaggle.com/chirag02/ford-gobike-data-analysis
+
+4. The image attached to the first page of the report in the Read_Me file is from sunset magazine's website :   https://www.sunset.com/travel/outdoor-adventure/biking-towns#biking-towns-portland-or
